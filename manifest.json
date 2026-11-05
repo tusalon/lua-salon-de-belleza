@@ -1,0 +1,22 @@
+{
+  "name": "Lùa Salón de belleza",
+  "short_name": "Lùa",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/lua-salon-de-belleza/",
+  "scope": "/lua-salon-de-belleza/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/lua-salon-de-belleza/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/lua-salon-de-belleza/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
